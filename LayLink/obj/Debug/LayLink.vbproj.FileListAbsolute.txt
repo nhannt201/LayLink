@@ -1,0 +1,11 @@
+E:\LayLink\LayLink\bin\Debug\LayLink.exe.config
+E:\LayLink\LayLink\obj\Debug\LayLink.Form1.resources
+E:\LayLink\LayLink\obj\Debug\LayLink.Resources.resources
+E:\LayLink\LayLink\obj\Debug\LayLink.vbproj.GenerateResource.Cache
+E:\LayLink\LayLink\bin\Debug\LayLink.exe
+E:\LayLink\LayLink\bin\Debug\LayLink.pdb
+E:\LayLink\LayLink\bin\Debug\LayLink.xml
+E:\LayLink\LayLink\obj\Debug\LayLink.exe
+E:\LayLink\LayLink\obj\Debug\LayLink.xml
+E:\LayLink\LayLink\obj\Debug\LayLink.pdb
+E:\LayLink\LayLink\obj\Debug\LayLink.vbprojResolveAssemblyReference.cache
